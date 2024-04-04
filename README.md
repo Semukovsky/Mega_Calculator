@@ -7,13 +7,8 @@
 * unittest
 
 ## Установка
-
-1. Склонируйте репозиторий:
-
-   ```shell
-   git clone git@github.com:NaFo61/MiniProject.git
    ```
-2. Создайте виртуальное окружение и активируйте его:
+Создайте виртуальное окружение и активируйте его:
 
    ```shell
    python -m venv venv
