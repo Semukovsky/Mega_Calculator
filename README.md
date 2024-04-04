@@ -20,8 +20,4 @@
    source venv/bin/activate
    ```
 
-# Контакты
-
-* TG: @director_61
-
 --------------------------------
